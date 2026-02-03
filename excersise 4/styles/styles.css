@@ -1,0 +1,59 @@
+.Titulo {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  font-size: 100px;
+}
+.Nombre {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  font-size: 50px;
+}
+
+.div001 {
+  background-color: brown;
+  height: 200px;
+}
+.div002 {
+  background-color: rgb(212, 151, 60);
+  height: 165px;
+}
+
+.div003 {
+  background-color: rgb(197, 227, 98);
+  height: 100px;
+}
+.div004 {
+  background-color: aqua;
+  height: 90px;
+}
+.div005 {
+  background-color: black;
+  height: 75px;
+  width: 50%;
+}
+.div006 {
+  background-color: rgb(69, 172, 188);
+  height: 200px;
+  width: 200%;
+}
+.div007 {
+  background-color: rgb(62, 45, 115);
+  height: 75px;
+  width: 50%;
+}
+.flex001 {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  display: flex;
+}
+.flex002 {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(60, 224, 79);
+}
+.flex003 {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(224, 53, 176);
+}
